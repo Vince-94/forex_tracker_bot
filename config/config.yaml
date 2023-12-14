@@ -1,0 +1,12 @@
+Forex:
+  name: "EUR-MXN"
+  thresholds: [18.20, 19.20]
+  period: 10
+  target_margin: 0.5
+  safe_margin: 0.2
+
+Telegram:
+  BotName: "forex_tracker_bot"
+  ApiToken: ""
+  ApiUrl: "https://api.telegram.org/bot/"
+  ChatId: ""
