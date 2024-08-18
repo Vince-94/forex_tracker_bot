@@ -7,6 +7,6 @@ Forex:
 
 Telegram:
   BotName: "forex_tracker_bot"
-  ApiToken: ""
+  ApiToken: "6325339311:AAEM5Q7bqGPeGr7qO5PJ9kJgAtHTEvNqNw8"
   ApiUrl: "https://api.telegram.org/bot/"
-  ChatId: ""
+  ChatId: "128491099"
